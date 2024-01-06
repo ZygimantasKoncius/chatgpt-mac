@@ -23,6 +23,7 @@
   "license": "MIT",
   "dependencies": {
     "electron-context-menu": "^3.6.0",
+    "electron-forge": "^5.2.4",
     "menubar": "^9.2.3",
     "nucleus-analytics": "^4.0.3",
     "update-electron-app": "^2.0.1"
