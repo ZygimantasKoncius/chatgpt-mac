@@ -10,6 +10,9 @@ npm run package
 ```
 And then copy the appropriate `.app` version(can be found in `out` directory) to your `Applications` directory.
 
+All credit goes to @vincelwt.
+
+# Original README below
 
 ⭐ Building in AI? My new project is an [open-source toolkit for AI devs](https://github.com/llmonitor/llmonitor), a star would mean the world ⭐
 
