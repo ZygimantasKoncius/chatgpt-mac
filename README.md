@@ -1,3 +1,12 @@
+# Fork description
+
+Fork of: https://github.com/vincelwt/chatgpt-mac - it wasn't supporting ChatGPT plus subscription, GPT4 and custom GPTs, 
+this removes all the custom additions from original plugin and allows to use all ChatGPT plus features.
+
+Find .dmgs in releases: https://github.com/ZygimantasKoncius/chatgpt-mac/releases
+
+
+
 ⭐ Building in AI? My new project is an [open-source toolkit for AI devs](https://github.com/llmonitor/llmonitor), a star would mean the world ⭐
 
 ---
